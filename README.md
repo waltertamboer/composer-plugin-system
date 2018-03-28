@@ -1,4 +1,4 @@
-# composer-plugin-system
+# experiment-composer-plugin-system
 
 A plugin system architecture based on Composer. This is a proof of concept to test
 how installing plugins would work.
